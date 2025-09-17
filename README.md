@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ygor-nobrega-372a2a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@l1d3rr)
 [![WhattsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/21994279370)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ygornobregx@gmail.com)
 
 ### Tecnologias:
 
@@ -19,3 +18,4 @@
 </div><br>
 
 #### Sou estudante de Ciência da Computação apaixonado por inovação e tecnologia, utilizo o meu aprendizado para desenvolver programas que ajudam no dia a dia de pesssoas, seja na vida pessoal ou profissional. No meu Canal do Youtube posto um pouco da minha rotina de vida, estudos e trabalhos...
+#### Email: ygornobregx@gmail.com
