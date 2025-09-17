@@ -1,16 +1,21 @@
-## Hi there 👋
+### Ola! Eu sou o Ygor Nobrega 🤙
 
-<!--
-**ygornobregx/ygornobregx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ygor-nobrega-372a2a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@l1d3rr)
+[![WhattsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/21994279370)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ygornobregx@gmail.com)
 
-Here are some ideas to get you started:
+### Tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline block"><br/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+
+</div><br>
+
+#### Sou estudante de Ciência da Computação apaixonado por inovação e tecnologia, utilizo o meu aprendizado para desenvolver programas que ajudam no dia a dia de pesssoas, seja na vida pessoal ou profissional. No meu Canal do Youtube posto um pouco da minha rotina de vida, estudos e trabalhos...
