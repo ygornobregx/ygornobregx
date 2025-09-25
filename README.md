@@ -1,4 +1,4 @@
-### Ola! Eu sou o Ygor Nobrega 🤙
+### Ola! Eu sou o Ygor Nobrega
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ygor-nobrega-372a2a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@l1d3rr)
