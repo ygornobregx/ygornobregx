@@ -13,5 +13,5 @@
 
 </div><br>
 
-#### Sou estudante de Ciência da Computação apaixonado por inovação e tecnologia, utilizo o meu aprendizado para desenvolver programas que ajudam no dia a dia de pesssoas, seja na vida pessoal ou profissional. No meu Canal do Youtube posto um pouco da minha rotina de vida, estudos e trabalhos...
+#### Sou estudante de Ciência da Computação apaixonado por inovação e tecnologia, utilizo o meu aprendizado para desenvolver programas que ajudam no dia a dia de pesssoas, seja na vida pessoal ou profissional...
 #### Email: ygornobregx@gmail.com
