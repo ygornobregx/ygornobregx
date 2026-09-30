@@ -6,6 +6,6 @@ Gosto de automação e de facilitar a vida das pessoas, ganhando tempo através 
 
 ---
 
-## 🛠️ Idiomas e Ferramentas
+## 🛠️ Ferramentas
 
 ![Skills](https://skillicons.dev/icons?i=python,postgres,sqlite,gcp,git,tensorflow)
