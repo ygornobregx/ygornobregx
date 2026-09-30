@@ -1,17 +1,13 @@
-### Ola! Eu sou o Ygor Nobrega
+# Ygor Nobrega
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ygor-nobrega-372a2a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![WhattsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/21994279370)
+![Estudante de Dados](https://img.shields.io/badge/Estudante%20de%20Dados-2b2b2b?style=flat-square)
 
-### Tecnologias:
+Gosto de automação e de facilitar a vida das pessoas, ganhando tempo através da tecnologia. Atualmente sou Estagiário de Dados em uma das maiores seguradoras do país, sempre em busca de aprendizado e evolução na área de dados.
 
-<div style="display: inline block"><br/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="Python" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+---
 
+## 🛠️ Idiomas e Ferramentas
 
-</div><br>
-
-#### Sou estudante de Ciência da Computação apaixonado por inovação e tecnologia, utilizo o meu aprendizado para desenvolver programas que ajudam no dia a dia de pesssoas, seja na vida pessoal ou profissional...
-#### Email: ygornobregx@gmail.com
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
